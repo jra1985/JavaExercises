@@ -3,7 +3,8 @@ package com.xcodula.programming;
 public class Main {
 
     public static void main(String[] args) {
-        DogBoarding.run();
+        Dollars.run();
+        //DogBoarding.run();
         //Eggs.run();
         //InchesToFeet.Run();
         //InchesToFeetInteractive.Run();
