@@ -4,10 +4,6 @@
 
 This program is the solution to exercise problem 11 from page 114 of *Java Programming, 7th Edition* by Joyce Farrell.
 
-Write a program that accepts a temperature in Fahrenheit from a user and converts it to Celsius by subtracting 32 from 
-the Fahrenheit value and multiplying the result by 5/9.  Display both values.  Save the class as 
-**FahrenheitToCelsius.java**.
-
 ## Designing the Program
 
 I think that I will just create a straight procedural program to do this conversion.  There doesn't seem to be much 

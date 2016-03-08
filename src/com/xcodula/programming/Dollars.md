@@ -4,9 +4,6 @@
 
 This program is the solution to exercise problem 10 from page 114 of *Java Programming, 7th Edition* by Joyce Farrell.
 
-Write a class that calculates and displays the conversion of an entered number of dollars into currency denominations -
-20s, 10s, 5s, and 1s.  Save the class as **Dollars.java**.
-
 ## Designing the Program
 
 This program will need a class defined that will be a container of total 20s, 10s, 5s, and 1s for a giving amount of 

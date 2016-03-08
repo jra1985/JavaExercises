@@ -4,9 +4,6 @@
 
 This program is the solution to exercise problem 9 from page 114 of *Java Programming, 7th Edition* by Joyce Farrell.
 
-The Happy Yappy Kennel boards dogs at a cost of 50 cents per pound per day.  Write a class that accepts a dog's weight
-and number of days to be boarded and displays the total price for boarding.  Save the class as **DogBoarding.java**.
-
 ## Designing the Program
 
 This program will need to have the ability to take in user input for the weight of the dog and the number of days to 
