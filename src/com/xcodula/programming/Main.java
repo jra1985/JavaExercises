@@ -3,7 +3,7 @@ package com.xcodula.programming;
 public class Main {
 
     public static void main(String[] args) {
-        TicketNumber.run();
+        ArithmeticMethods.run(args);
         //DogBoarding.run();
         //Dollars.run();
         //Eggs.run();
@@ -14,5 +14,6 @@ public class Main {
         //MilesToFeetInteractive.Run();
         //ProjectedSales.Run();
         //ProjectedSalesInteractive.Run();
+        //TicketNumber.run();
     }
 }
