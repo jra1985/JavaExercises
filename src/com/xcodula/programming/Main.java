@@ -3,7 +3,8 @@ package com.xcodula.programming;
 public class Main {
 
     public static void main(String[] args) {
-        ArithmeticMethods.run(args);
+        ArithmeticMethods2.run();
+        //ArithmeticMethods.run(args);
         //DogBoarding.run();
         //Dollars.run();
         //Eggs.run();
