@@ -3,8 +3,9 @@ package com.xcodula.programming;
 public class Main {
 
     public static void main(String[] args) {
-        ArithmeticMethods2.run();
+        JLyrics.run();
         //ArithmeticMethods.run(args);
+        //ArithmeticMethods2.run();
         //DogBoarding.run();
         //Dollars.run();
         //Eggs.run();
